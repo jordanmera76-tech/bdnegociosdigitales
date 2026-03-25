@@ -58,9 +58,9 @@ CREATE TABLE dbo.Pagos(
 INSERT INTO dbo.Clientes(Nombre, Email, Ciudad, FechaAlta, Activo) VALUES
 ('Ana Ruiz','ana@correo.com','Pachuca','2025-10-10',1),
 ('Luis Soto','luis@correo.com','Tula','2025-11-01',1),
-('María Peña',NULL,'Tula','2025-09-15',1),
+('Marï¿½a Peï¿½a',NULL,'Tula','2025-09-15',1),
 ('Jorge Cano','jorge@correo.com','Tepeji','2025-07-20',0),
-('Carla Díaz','carla@correo.com','Pachuca','2025-12-05',1);
+('Carla Dï¿½az','carla@correo.com','Pachuca','2025-12-05',1);
 
 INSERT INTO dbo.Productos(SKU,Nombre,Categoria,Precio,Activo) VALUES
 ('A100','Laptop 14','Computo',16500,1),
