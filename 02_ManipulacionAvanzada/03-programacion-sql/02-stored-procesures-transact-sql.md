@@ -4,7 +4,7 @@
 
 - ¿Que es un Stared Procedure?
 
-Un ** Satred Procedure (SP)** es un cloque de codigo SQL guardado dentro de la base de datos que puede ejecutar cuando se necesite. Es un decir es un **Objeto de la BD **
+Un ** Satred Procedure (SP) ** es un cloque de codigo SQL guardado dentro de la base de datos que puede ejecutar cuando se necesite. Es un decir es un ** Objeto de la BD **
 
 Es similar a una funcion o metodo en programacion.
 
