@@ -161,3 +161,6 @@ FROM CatCliente
 
 SELECT *
 FROM CatProducto
+GO
+
+
